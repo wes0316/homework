@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.train.tic_test" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-22T07:25:06" hostname="DESKTOP-SF2FMGM" time="0.017">
+  <properties/>
+  <testcase name="ticFunTest()" classname="com.train.tic_test" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
