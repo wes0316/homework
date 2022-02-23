@@ -12,9 +12,17 @@ import java.util.Date;
 
 public class Tester {
     public static void main(String[] args) {
+         LocalDateTime enter =
+                 LocalDateTime.of(2022,2,23,17,10,25);
+         LocalDateTime leave =
+                 LocalDateTime.of(2022,2,23,19,0,0);
+        Car car = new Car("ATG-0075",enter );
+        car.setLeave(leave);
+        System.out.println(car.getDuration());
+
 
         //java8
-        java8();
+       //java8();
 
         //   java();
 
