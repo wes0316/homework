@@ -14,7 +14,7 @@ public class Car {
         this.id = id;
         this.enter = enter;
     }
-//中文測式
+
     public void leave(){
         this.leave = LocalDateTime.now();
     }

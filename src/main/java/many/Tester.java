@@ -8,8 +8,8 @@ public class Tester {
     public static void main(String[] args) {
 
         HashMap<String, String> stocks = new HashMap<>();
-        stocks.put("2330","台積電");
-        stocks.put("2317","鴻海");
+        stocks.put("2330","AAAA");
+        stocks.put("2317","DDDDD");
         stocks.put("2330","TMC");
         System.out.println(stocks.get("2330"));
         for(String key: stocks.keySet())
