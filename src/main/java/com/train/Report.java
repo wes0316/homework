@@ -1,0 +1,6 @@
+package com.train;
+
+public interface Report {
+    public void load();
+    public void print();
+}
